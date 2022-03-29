@@ -1,4 +1,4 @@
-Autor: Adrian Wróblewski
+Autor: Adrian Wroblewski
 
 
 
