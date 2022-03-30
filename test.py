@@ -5,11 +5,14 @@ def hello(name):
 def dodaj(a,b):
 	wynik = float(a)+float(b)
 	return wynik
-pierwsza = input()
-druga = input()
 
 def odejmij(a,b):
-	return a-b
+	wynik = float(a)-float(b)
+	return wynik
+
+pierwsza = ine(input())
+druga = int(input())
+
 
 print("Hello world")
 print(dodaj(pierwsza,druga))
