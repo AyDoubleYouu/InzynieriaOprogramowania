@@ -1,4 +1,4 @@
-To tylko test, nie bac sie.
+To tylko testy nie bac sie, pozycja zolwia.
 
 # deklarujemy i inicjalizujemy zmienne
 aktRok = 2014
@@ -13,3 +13,6 @@ wiek = int(input('Ile masz lat? '))
 # wyświetlamy komunikaty
 print("Witaj", imie)
 print("Mów mi Python, mam", wiekPythona, "lat.")
+
+# To pozostałości po starym pliku
+print("Hello Github")

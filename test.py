@@ -1,4 +1,4 @@
-# To bedzie plik na ktroym bede pracował z repo.
+# To bedzie plik na ktorym bede pracowal z repo.
 def hello(name):
 	return "Hello" + str(name)
 
