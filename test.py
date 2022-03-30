@@ -2,5 +2,8 @@
 def hello(name):
 	return "Hello" + str(name)
 
-print("Hello world")
+def odejmij(a,b):
+	return a-b
+
+
 print("Git")
