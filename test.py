@@ -2,7 +2,5 @@
 def hello(name):
 	return "Hello" + str(name)
 
-def odejmnij(a,b):
-	return a-b
 print("Hello world")
 print("Git")
