@@ -10,9 +10,7 @@ def odejmij(a,b):
 	wynik = float(a)-float(b)
 	return wynik
 
-pierwsza = ine(input())
-druga = int(input())
+pierwsza = input()
+druga = input()
 
-
-print("Hello world")
 print(dodaj(pierwsza,druga))
